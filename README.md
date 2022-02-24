@@ -1,1 +1,1 @@
-<p style: text-align: center;>test<p/>
+<p style=text-align: center;>test<p/>
